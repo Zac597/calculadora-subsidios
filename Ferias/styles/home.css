@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: #29292E;
+}
+
+main {
+  border-radius: 1rem;
+  background-color: white;
+  margin: 15rem auto 0;
+  padding: 2rem;
+  width: 50rem;
+}
+
+.calculadoras {
+  margin-top: 10rem;
+  height: 35rem;
+  width: 50rem;
+  gap: 10rem;
+  display: flex;
+  flex-direction: column;
+}
+
